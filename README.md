@@ -9,4 +9,4 @@ Etudiant ingénieur en informatique, j'apprends le C++, le Java et le web.
 
 ## 🔗 Liens
 - [Mon LinkedIn](https://www.linkedin.com/in/dorian-tonnis/)
-- [Mon portfolio](https://dorian-tonnis.fr "portfolio")
+- [Mon portfolio](https://dorian.tonnis.fr "portfolio")
